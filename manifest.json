@@ -1,7 +1,7 @@
 {
-  "id": "WembassyCo/obsidian-drupal-sync",
+  "id": "WembassyCo/drupal-sync",
   "name": "Drupal Note Sync",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "minAppVersion": "0.15.0",
   "description": "Publish and update Obsidian notes as Drupal nodes via the REST API.",
   "author": "Chris McIntosh <cmcintosh@wembassy.com>",
